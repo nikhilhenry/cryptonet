@@ -33,7 +33,7 @@ python3 main.py decrypt your_file
 
 
 ## Note
-- A system file "key.key" os  generated each time generate_key is entered. A specific key is used to both encrypt and decrypt
+- A system file "key.key" is  generated each time generate_key is entered. A specific key is used to both encrypt and decrypt
 
 - A file with the extension ".enc" is created when a file is encrypted
 
